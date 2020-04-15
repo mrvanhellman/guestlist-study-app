@@ -1,1 +1,0 @@
-# guestlist-study-app
